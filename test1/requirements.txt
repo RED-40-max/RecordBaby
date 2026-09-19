@@ -1,0 +1,15 @@
+# Requires Python >= 3.10
+# pip install -r requirements.txt
+
+ytmusicapi>=1.10.0
+yt-dlp>=2026.1.0
+numpy>=1.24.0
+sounddevice>=0.4.6
+scipy>=1.10.0
+PyQt6>=6.5.0
+
+
+#yt-dlp
+    # on mac: brew install ffmpeg
+    # linuex: sudo apt install ffmpeg
+    # windows: winget install ffmpeg

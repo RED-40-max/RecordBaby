@@ -1,0 +1,6 @@
+.cache/
+.cache/
+.cache/
+venv/
+*.wav
+*.mp3
